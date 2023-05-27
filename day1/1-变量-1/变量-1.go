@@ -19,8 +19,8 @@ func main() {
 	// fmt.Println("age = ",age);
 	/*变量的重复定义会报错：
 	  # command-line-arguments
-	  .\变量-1.go:16:6: age redeclared in this block
-	                  previous declaration at .\变量-1.go:6:6
+	  .\1-变量-1.go:16:6: age redeclared in this block
+	                  previous declaration at .\1-变量-1.go:6:6
 	*/
 
 	//不可以在赋值的时候给与不匹配的类型
