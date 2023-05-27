@@ -14,7 +14,7 @@ var (
 	n10 = "netty"
 )
 
-func applicationAndLocality() {
+func main() {
 	//定义在{}中的变量叫：局部变量
 	//第一种：变量的使用方式：指定变量的类型，并且赋值，
 	var num int = 18

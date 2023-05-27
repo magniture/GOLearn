@@ -26,10 +26,5 @@ func main() {
 	//不可以在赋值的时候给与不匹配的类型
 	//var num int = 12.56
 	//fmt.Println("num = ", num)
-	fmt.Println(ApplicationAndLocality())
 
-}
-
-func ApplicationAndLocality() {
-	fmt.Println()
 }
